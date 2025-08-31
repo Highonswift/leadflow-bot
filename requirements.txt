@@ -1,0 +1,13 @@
+Flask
+Flask-SocketIO
+Flask-SQLAlchemy
+python-dotenv
+google-generativeai
+requests
+eventlet
+deepgram-sdk>=3.0
+
+pydub
+
+numpy
+psycopg2-binary
