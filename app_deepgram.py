@@ -18,8 +18,6 @@ from deepgram import DeepgramClient, LiveTranscriptionEvents
 import google.generativeai as genai
 import requests
 
-from pydub import AudioSegment
-
 from db_manager import initialize_db, getAgentDetails, getMessages, addMessage, createConversation
 
 # --- Initialization ---
